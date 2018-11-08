@@ -1,0 +1,665 @@
+<?xml version="1.0" standalone="yes"?>
+<DSPlanoNegocio xmlns="http://tempuri.org/DSPlanoNegocio.xsd">
+  <Sumario_Executivo>
+    <ds_resumo_pn>Startup focada no desenvolvimento de óculos de realidade aumentada que auxiliara em exames médicos onde o nível de stress tende a ser grande por parte da criança gerando um desconforto aos responsáveis, este proverá uma melhor experiência a criança/usuário, o óculos contará com um software desenvolvido pela própria empresa contendo diferentes tipos de "cenas" cada qual referente ao tipo de consulta e um conjunto de dados e relatórios que são realizados automaticamente pelo nosso software e fornecidos a clínica ou local de realização do exame.
+Estaremos localizados e efetuando nossos trabalhos na cidade de Americana (interior de São Paulo), uma cidade de fácil acesso e próximo a cidade de Campinas (interior de São Paulo) onde está localizado o maior polo de tecnologia da região.
+O capital inicial será provido em um valor divido igualmente pelos principais investidores iniciais e idealizadores do projeto: Eduardo e Gabriel, o total do capital inicial será de R$300.000,00 sendo R$150.000,00 fornecido por cada um, teremos como fonte de lucro e cobrança a assinatura e licença do óculos/software sendo assim uma estimativa de lucro inicial para os três primeiros meses de R$20.000,00. Todo valor será cobrado inteiramente do estabelecimento ou clínica.</ds_resumo_pn>
+    <ds_missao_empresa>Nossa startup tem como objetivo fornecer uma experiência relaxante e aconchegante ao nosso usuário tirando a sensação de desconforto ou medo e fornecer ao estabelecimento/clínica um melhor ambiente de trabalho visto que o stress não será mais um ponto negativo e também dados analíticos e relatórios sobre a experiencia do usuário serão feitos automaticamente e fornecidos ajudando a melhorar o ambiente pelo ponto de vista da clínica</ds_missao_empresa>
+    <ds_fonte_recursos>Dentre os recursos bases para começarmos nossas atividades estão envolvidos toda a parte tecnológica ou equivalentes relacionados ao desenvolvimento:
+	Notebooks;
+	Computadores;
+	Servidores;
+	Internet;
+de início, para a obtenção destes que são os recursos essenciais utilizaremos de nosso capital, pretendemos não utilizar recursos de terceiros para o “core” de desenvolvimento visto que pretendemos manter a unicidade da ideia por um longo período para que possamos aprimora-la cada vez mais.
+Além do “core” de desenvolvimento visamos todos os setores da empresa como essenciais para o bom funcionamento e entrega de resultados e para i</ds_fonte_recursos>
+  </Sumario_Executivo>
+  <Empreendedor>
+    <cd_empreendedor>1</cd_empreendedor>
+    <ds_nome>Gabriel de Oliveira Neri</ds_nome>
+    <ds_endereco>Rua Ernesto Mauerberg</ds_endereco>
+    <ds_bairro>Jardim Bela Vista</ds_bairro>
+    <ds_cidade>Nova Odessa</ds_cidade>
+    <fk_estado>SP</fk_estado>
+    <nm_telefone1>1995436693</nm_telefone1>
+    <nm_telefone2>0</nm_telefone2>
+    <ds_perfil>Desenvolvedor de software, cursando jogos digitais pela FATEC americana, otimista no ramo dos négicios.</ds_perfil>
+    <ds_atribuicoes>Co-founder, CEO</ds_atribuicoes>
+    <ds_percParticipacao>40.00</ds_percParticipacao>
+    <Numero>1</Numero>
+  </Empreendedor>
+  <Empreendedor>
+    <cd_empreendedor>2</cd_empreendedor>
+    <ds_nome>Eduardo Henrique de Souza</ds_nome>
+    <ds_endereco>Rua Carlos Pinto Camargo 161</ds_endereco>
+    <ds_bairro>Jardim Santa Rosa</ds_bairro>
+    <ds_cidade>Nova Odessa</ds_cidade>
+    <fk_estado>SP</fk_estado>
+    <nm_telefone1>1999489392</nm_telefone1>
+    <nm_telefone2>0</nm_telefone2>
+    <ds_perfil>Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas</ds_perfil>
+    <ds_atribuicoes>Co-founder, CEO</ds_atribuicoes>
+    <ds_percParticipacao>40.00</ds_percParticipacao>
+    <Numero>2</Numero>
+  </Empreendedor>
+  <Empreendedor>
+    <cd_empreendedor>3</cd_empreendedor>
+    <ds_nome>Investimentos</ds_nome>
+    <ds_endereco>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</ds_endereco>
+    <ds_bairro>xxxxxxx</ds_bairro>
+    <ds_cidade>xxxx</ds_cidade>
+    <fk_estado>SP</fk_estado>
+    <nm_telefone1>1111111111</nm_telefone1>
+    <nm_telefone2>0</nm_telefone2>
+    <ds_perfil>Investidores voltados a compra de ações</ds_perfil>
+    <ds_atribuicoes>Investidores</ds_atribuicoes>
+    <ds_percParticipacao>20.00</ds_percParticipacao>
+    <Numero>3</Numero>
+  </Empreendedor>
+  <Empreendimento>
+    <ic_setor_agropecuaria>false</ic_setor_agropecuaria>
+    <ic_setor_industria>false</ic_setor_industria>
+    <ic_setor_comercio>true</ic_setor_comercio>
+    <ic_setor_servico>true</ic_setor_servico>
+    <ic_forma_juridica />
+    <ds_forma_juridica_outros>Sociedade Empresária</ds_forma_juridica_outros>
+    <ic_tributo_federal>Regime Simples</ic_tributo_federal>
+    <ic_tributo_estadual>False</ic_tributo_estadual>
+    <ic_tributo_municipal>False</ic_tributo_municipal>
+  </Empreendimento>
+  <Analise_Mercado>
+    <ds_publico_alvo>Nosso público alvo será as clínicas médicas que fornecem quaisquer tipo de exame, estes podendo gerar um nível de stress ou não, porém indiretamente consideramos também como nossos clientes finais os possíveis e futuros pacientes destas clinicas visto que serão eles que sofreram uma grande carga de stress, sem qualquer diferenciação de sexo, faixa etária e etc.</ds_publico_alvo>
+    <ds_comportamento_cliente>Grande stress e medo gerado em exames, exaustão devida ao ambiente estressante (para os funcionários das clínicas)</ds_comportamento_cliente>
+    <ds_area_abrangencia>Todo o Brasil</ds_area_abrangencia>
+    <ds_conclusao>Segundo pesquisas de estudo de caso realizadas a nossa ideia é a única que está sendo posta em prática visto que outros projetos não saíram do papel, ou podem ter uma ideia parecida, porém são aplicados a áreas totalmente diferentes.
+Nós presaremos pela qualidade do serviço oferecido e para isto forneceremos nosso serviço de atendimento ao cliente, nossas equipes serão totalmente focadas em seus objetivos para entregar o melhor resultado e serviço ao cliente.
+Nossos óculos serão feitos do melhor material existente no mercado e passarão por rigorosos testes e qualidade e quaisquer tipos de avaliações previstas dentro das leis da localidade de atuação.
+</ds_conclusao>
+  </Analise_Mercado>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-1</cd_fornecedor>
+    <ds_nome_fornecedor>Dell computadores</ds_nome_fornecedor>
+    <ds_preco>R$1.500,00 á R$20.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>7 dias úteis</ds_prazo_entrega>
+    <ds_descricao_item>Notebooks, desktops e servidores</ds_descricao_item>
+    <ds_localizacao>Campinas</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-2</cd_fornecedor>
+    <ds_nome_fornecedor>Kabum</ds_nome_fornecedor>
+    <ds_preco>R$50,00 á R$1.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>7 dias úteis</ds_prazo_entrega>
+    <ds_descricao_item>Acessórios de escritório</ds_descricao_item>
+    <ds_localizacao>Espirito Santos</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-3</cd_fornecedor>
+    <ds_nome_fornecedor>Kalunga</ds_nome_fornecedor>
+    <ds_preco>R$50,00 á R$1.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>1 dia útil</ds_prazo_entrega>
+    <ds_descricao_item>Acessórios de escritório</ds_descricao_item>
+    <ds_localizacao>Americana</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-4</cd_fornecedor>
+    <ds_nome_fornecedor>Net telecomunicações</ds_nome_fornecedor>
+    <ds_preco>R$1.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>3 dias úteis</ds_prazo_entrega>
+    <ds_descricao_item>Internet e serviços de rede</ds_descricao_item>
+    <ds_localizacao>Americana</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-5</cd_fornecedor>
+    <ds_nome_fornecedor>IBM</ds_nome_fornecedor>
+    <ds_preco>até R$10.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>7 dias úteis</ds_prazo_entrega>
+    <ds_descricao_item>Servidores</ds_descricao_item>
+    <ds_localizacao>Hôrtolandia</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Estudo_Fornecedor>
+    <cd_fornecedor>-6</cd_fornecedor>
+    <ds_nome_fornecedor>Apple</ds_nome_fornecedor>
+    <ds_preco>R$4.000,00 á R$ 10.000,00</ds_preco>
+    <ds_condicao_pagamento>Á vista</ds_condicao_pagamento>
+    <ds_prazo_entrega>7 dias úteis</ds_prazo_entrega>
+    <ds_descricao_item>Desktops</ds_descricao_item>
+    <ds_localizacao>São Paulo</ds_localizacao>
+  </Estudo_Fornecedor>
+  <Plano_Marketing>
+    <ds_principais_produtos>Dentre os principais produtos estarão o óculos de realidade aumentada e o software que rodará no mesmo, os dois serão fornecidos e licenciados como um único produto porém desenvolvidos por equipes diferentes mas mantendo sinergia de projeto.</ds_principais_produtos>
+    <ds_estrategia_precificacao>Dente ás principais estratégias de precificação estãrao a cobrança de licença e assinatura.</ds_estrategia_precificacao>
+    <ds_estrategia_promocao>Realizaremos nossas estratégias promocionais através de propagandas em rádios e pequenos comerciais em canais televisivos, distribuição de panfletos direto nas principais e mais conhecidas clínicas/centro médicos da cidade.
+Elaboraremos um site de apresentação do projeto contendo todos os dados necessários e explicativos sobre nós tais como investidores, fornecedores, ideia do projeto, idealizadores e etc.
+divulgaremos através das principais redes sociais da atualidade (Facebook, Twitter, Instagram...) tendo em vista que hoje as redes sociais são um dos maiores focos de acesso diário e um “ninho” de informação podendo acarretar o crescimento exponencial de uma ideia/negócio.
+Participar de feiras de tecnologia ou feiras de negócios também está entre nossas principais estratégias promocionais visto que alguns futuros investidores podem ser “adquiridos” nestas.
+</ds_estrategia_promocao>
+    <ds_forma_comercializacao>As formas de comercialização e distribuição serão feitas inteiramente através de uma equipe própria com profissionais capacitados, através da equipe de marketing realizaremos estudos de caso e cenário para que possamos obter por meio de dados as mais diversas informações sobre nossos clientes, tais como volume de atendimento diário, faixa etária dos pacientes atendidos, principais exames dentre outros nos permitindo gerir o pedidos realizados de uma forma mais apta e rápida atendendo com profissionalismo todos os nossos clientes.
+No início, para nossos clientes que estarão a longas distâncias forneceremos um representante comercial de extrema confiança onde o mesmo terá como função auxiliar o cliente, este será parte de nossa equipe sendo contratado formalmente e legalmente dentro dos pontos trabalhistas previstos pelas leis. Sendo assim também no inicio teremos uma equipe inteiramente focada no atendimento call-center fornecendo informações, esclarecendo duvidas e auxiliando nossos clientes.
+</ds_forma_comercializacao>
+    <ds_consideracao>Ponto de fácil acesso e muito reconhecido cidade a fora, ao lado temos a escola técnica polivalente de Americana onde são formados excelentes alunos gerando-nos uma possível parceira para geração de empregos e contratação de profissionais capacitados, também é de facil acesso pois temos as duas pistas SP304 e Anhaguera.</ds_consideracao>
+    <ds_endereco>Avenida Nossa Senhora de Fátima - 291 Sala 3</ds_endereco>
+    <ds_bairro> Jardim Santana</ds_bairro>
+    <ds_cidade>Americana</ds_cidade>
+    <ds_estado>SP</ds_estado>
+    <ds_telefone1>(19) 9543-6693</ds_telefone1>
+    <ds_telefone2>(19) 3789-6658</ds_telefone2>
+    <ds_fax>(  )     -</ds_fax>
+  </Plano_Marketing>
+  <Produtos>
+    <cd_produto>1</cd_produto>
+    <ds_produto>Oculos de realidade aumentada</ds_produto>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_preco_venda>2500.00</nm_preco_venda>
+    <nm_preco_custo>0</nm_preco_custo>
+    <cd_tipo>P</cd_tipo>
+  </Produtos>
+  <Produtos>
+    <cd_produto>2</cd_produto>
+    <ds_produto>Software de cenas do oculos de realidade aumentada</ds_produto>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_preco_venda>1000.00</nm_preco_venda>
+    <nm_preco_custo>0</nm_preco_custo>
+    <cd_tipo>S</cd_tipo>
+  </Produtos>
+  <Plano_Operacional>
+    <ds_capacidade_maxima>Pretendemos produzir e atender nos três primeiros meses uma demanda de 10 clínicas (mensais e ao final destes meses 30) sendo essas de qualquer ramo da saúde, por serem nossos primeiros clientes pretendemos priorizar o atendimento (Help-desk/suporte) tendo em vista que nas primeiras versões do projeto as cenas serão padrões e disponibilizaremos futuramente para cada cliente se desejar uma cena especifica.
+</ds_capacidade_maxima>
+  </Plano_Operacional>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-1</cd_pessoal>
+    <ds_cargo>Engenheiro de Software</ds_cargo>
+    <ds_qualificacao>Formado em engenharia de software, análise de sistemas, ciências da computação ou correlatas.
+Experiência em desenvolvimento de software: 5 anos +;
+Experiência de desenvolvimento em equipe;
+Experiência com grande massa de dados;
+Quaisquer stack será bem vinda.
+</ds_qualificacao>
+    <nm_qtd_empregados>1</nm_qtd_empregados>
+    <nm_salario_mensal>2900.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>2900.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>2900.00</total>
+    <Numero>1</Numero>
+  </Necessidade_Pessoal>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-2</cd_pessoal>
+    <ds_cargo>Desenvolvedor</ds_cargo>
+    <ds_qualificacao>Formado em engenharia de software, análise de sistemas, ciências da computação ou correlatas.
+Experiência em desenvolvimento de software: 2 anos +;
+Experiência de desenvolvimento em equipe;
+Experiência com grande massa de dados;
+Quaisquer stack será bem vinda.
+</ds_qualificacao>
+    <nm_qtd_empregados>3</nm_qtd_empregados>
+    <nm_salario_mensal>2500.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>7500.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>7500.00</total>
+    <Numero>2</Numero>
+  </Necessidade_Pessoal>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-3</cd_pessoal>
+    <ds_cargo>Suporte ao cliente</ds_cargo>
+    <ds_qualificacao>Excelente relacionamento pessoa;
+Calmo;
+Experiencia previa com atendimento;
+Disponibilidade de turno;
+Disponibilidade de home office;</ds_qualificacao>
+    <nm_qtd_empregados>2</nm_qtd_empregados>
+    <nm_salario_mensal>1800.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>3600.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>3600.00</total>
+    <Numero>3</Numero>
+  </Necessidade_Pessoal>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-4</cd_pessoal>
+    <ds_cargo>Secretaria</ds_cargo>
+    <ds_qualificacao>Bom relacionamento pessoal;
+Disponiblidade de horário administrativo;
+Operação em Windows com Word, PowerPoint, Excel, Outlook;</ds_qualificacao>
+    <nm_qtd_empregados>1</nm_qtd_empregados>
+    <nm_salario_mensal>1600.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>1600.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>1600.00</total>
+    <Numero>4</Numero>
+  </Necessidade_Pessoal>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-5</cd_pessoal>
+    <ds_cargo>Marketing</ds_cargo>
+    <ds_qualificacao>Conhecimento em layout com interface ao usuário;
+Conhecimento em planejamento e estratégia de marketing para T.I;</ds_qualificacao>
+    <nm_qtd_empregados>2</nm_qtd_empregados>
+    <nm_salario_mensal>2000.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>4000.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>4000.00</total>
+    <Numero>5</Numero>
+  </Necessidade_Pessoal>
+  <Necessidade_Pessoal>
+    <cd_pessoal>-6</cd_pessoal>
+    <ds_cargo>Vendedor</ds_cargo>
+    <ds_qualificacao>Excelente relacionamento pessoal;
+Conhecer raio de alcance do serviço e o público alvo;
+Disponibilidade de se deslocar para longas distâncias;
+Ter CNH (A,B);</ds_qualificacao>
+    <nm_qtd_empregados>1</nm_qtd_empregados>
+    <nm_salario_mensal>2000.00</nm_salario_mensal>
+    <nm_vlr_encargos_sociais>0</nm_vlr_encargos_sociais>
+    <vlrSubtotal>2000.00</vlrSubtotal>
+    <encargosSociais>0.00</encargosSociais>
+    <total>2000.00</total>
+    <Numero>6</Numero>
+  </Necessidade_Pessoal>
+  <Investimento_Fixo>
+    <cd_bem>-1</cd_bem>
+    <ds_descricao_bem>Computador para desenvolvimento</ds_descricao_bem>
+    <nm_grupo_bem>5</nm_grupo_bem>
+    <nm_quantidade>4</nm_quantidade>
+    <nm_valor_unitario>1500.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-2</cd_bem>
+    <ds_descricao_bem>Roteador</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>2</nm_quantidade>
+    <nm_valor_unitario>100.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-3</cd_bem>
+    <ds_descricao_bem>Switch</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>140.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-4</cd_bem>
+    <ds_descricao_bem>Computador para equipe técnica</ds_descricao_bem>
+    <nm_grupo_bem>5</nm_grupo_bem>
+    <nm_quantidade>4</nm_quantidade>
+    <nm_valor_unitario>1200.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-5</cd_bem>
+    <ds_descricao_bem>Alguel da sala em prédio</ds_descricao_bem>
+    <nm_grupo_bem>0</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>2000.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-6</cd_bem>
+    <ds_descricao_bem>Bancadas de trabalho</ds_descricao_bem>
+    <nm_grupo_bem>3</nm_grupo_bem>
+    <nm_quantidade>8</nm_quantidade>
+    <nm_valor_unitario>950.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-7</cd_bem>
+    <ds_descricao_bem>Cadeiras com rodas</ds_descricao_bem>
+    <nm_grupo_bem>3</nm_grupo_bem>
+    <nm_quantidade>8</nm_quantidade>
+    <nm_valor_unitario>850.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-8</cd_bem>
+    <ds_descricao_bem>Rack</ds_descricao_bem>
+    <nm_grupo_bem>3</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>900.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-9</cd_bem>
+    <ds_descricao_bem>Telefone sem fio</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>4</nm_quantidade>
+    <nm_valor_unitario>80.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-10</cd_bem>
+    <ds_descricao_bem>Servidor</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>25000.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-11</cd_bem>
+    <ds_descricao_bem>Mouse</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>8</nm_quantidade>
+    <nm_valor_unitario>100.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-12</cd_bem>
+    <ds_descricao_bem>Teclado</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>8</nm_quantidade>
+    <nm_valor_unitario>200.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-13</cd_bem>
+    <ds_descricao_bem>Rack para servidor</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>3000.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-14</cd_bem>
+    <ds_descricao_bem>Impressoras</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>4</nm_quantidade>
+    <nm_valor_unitario>200.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-15</cd_bem>
+    <ds_descricao_bem>Impressora 3D</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>5000.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-16</cd_bem>
+    <ds_descricao_bem>Cabos de rede</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>20</nm_quantidade>
+    <nm_valor_unitario>15.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-17</cd_bem>
+    <ds_descricao_bem>Bebedouro</ds_descricao_bem>
+    <nm_grupo_bem>3</nm_grupo_bem>
+    <nm_quantidade>2</nm_quantidade>
+    <nm_valor_unitario>100.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-18</cd_bem>
+    <ds_descricao_bem>Ar condicionado</ds_descricao_bem>
+    <nm_grupo_bem>3</nm_grupo_bem>
+    <nm_quantidade>2</nm_quantidade>
+    <nm_valor_unitario>800.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-19</cd_bem>
+    <ds_descricao_bem>Leitores de digitais</ds_descricao_bem>
+    <nm_grupo_bem>1</nm_grupo_bem>
+    <nm_quantidade>1</nm_quantidade>
+    <nm_valor_unitario>300.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Investimento_Fixo>
+    <cd_bem>-20</cd_bem>
+    <ds_descricao_bem>Notebook para viagens</ds_descricao_bem>
+    <nm_grupo_bem>5</nm_grupo_bem>
+    <nm_quantidade>3</nm_quantidade>
+    <nm_valor_unitario>1200.00</nm_valor_unitario>
+  </Investimento_Fixo>
+  <Estoque_Inicial>
+    <cd_material>-1</cd_material>
+    <ds_material>Raspbery Pi</ds_material>
+    <nm_quantidade>40</nm_quantidade>
+    <nm_valor_unitario>300.00</nm_valor_unitario>
+  </Estoque_Inicial>
+  <Estoque_Inicial>
+    <cd_material>-2</cd_material>
+    <ds_material>Lentes para óculos</ds_material>
+    <nm_quantidade>40</nm_quantidade>
+    <nm_valor_unitario>150.00</nm_valor_unitario>
+  </Estoque_Inicial>
+  <Estoque_Inicial>
+    <cd_material>-3</cd_material>
+    <ds_material>Armação de óculos</ds_material>
+    <nm_quantidade>40</nm_quantidade>
+    <nm_valor_unitario>120.00</nm_valor_unitario>
+  </Estoque_Inicial>
+  <Estoque_Inicial>
+    <cd_material>-4</cd_material>
+    <ds_material>LED para lente</ds_material>
+    <nm_quantidade>120</nm_quantidade>
+    <nm_valor_unitario>2.00</nm_valor_unitario>
+  </Estoque_Inicial>
+  <Custo_Depreciacao>
+    <nm_grupo_bem>0</nm_grupo_bem>
+  </Custo_Depreciacao>
+  <Custo_Depreciacao>
+    <nm_grupo_bem>1</nm_grupo_bem>
+  </Custo_Depreciacao>
+  <Custo_Depreciacao>
+    <nm_grupo_bem>3</nm_grupo_bem>
+  </Custo_Depreciacao>
+  <Custo_Depreciacao>
+    <nm_grupo_bem>5</nm_grupo_bem>
+  </Custo_Depreciacao>
+  <Conta_Pagar_Receber>
+    <cd_prazo>-1</cd_prazo>
+    <cd_conta>0</cd_conta>
+    <ds_prazo>Primeiro retorno</ds_prazo>
+    <nm_percentual>20.00</nm_percentual>
+    <nm_dias>30</nm_dias>
+  </Conta_Pagar_Receber>
+  <Avaliacao_Estrategica>
+    <ds_forcas />
+    <ds_oportunidades />
+    <ds_fraquezas />
+    <ds_ameacas />
+    <ds_acoes />
+  </Avaliacao_Estrategica>
+  <Investimento_Pre_Operacional>
+    <cd_investimento>-1</cd_investimento>
+    <ds_investimento>Despesas de Legalização</ds_investimento>
+    <nm_valor>0</nm_valor>
+  </Investimento_Pre_Operacional>
+  <Investimento_Pre_Operacional>
+    <cd_investimento>-2</cd_investimento>
+    <ds_investimento>Obras civis e/ou reformas</ds_investimento>
+    <nm_valor>0</nm_valor>
+  </Investimento_Pre_Operacional>
+  <Investimento_Pre_Operacional>
+    <cd_investimento>-3</cd_investimento>
+    <ds_investimento>Divulgação</ds_investimento>
+    <nm_valor>0</nm_valor>
+  </Investimento_Pre_Operacional>
+  <Investimento_Pre_Operacional>
+    <cd_investimento>-4</cd_investimento>
+    <ds_investimento>Cursos e Treinamentos</ds_investimento>
+    <nm_valor>0</nm_valor>
+  </Investimento_Pre_Operacional>
+  <Investimento_Pre_Operacional>
+    <cd_investimento>-5</cd_investimento>
+    <ds_investimento>Outras despesas</ds_investimento>
+    <nm_valor>0</nm_valor>
+  </Investimento_Pre_Operacional>
+  <Status_Preenchimento_tela>
+    <_x0031_._x0020_Sumário_x0020_Executivo>true</_x0031_._x0020_Sumário_x0020_Executivo>
+    <_x0032_._x0020_Análise_x0020_de_x0020_Mercado>false</_x0032_._x0020_Análise_x0020_de_x0020_Mercado>
+    <_x0033_._x0020_Plano_x0020_de_x0020_Marketing>true</_x0033_._x0020_Plano_x0020_de_x0020_Marketing>
+    <_x0034_._x0020_Plano_x0020_Operacional>false</_x0034_._x0020_Plano_x0020_Operacional>
+    <_x0035_._x0020_Plano_x0020_Financeiro>false</_x0035_._x0020_Plano_x0020_Financeiro>
+    <_x0036_._x0020_Construção_x0020_de_x0020_Cenários>false</_x0036_._x0020_Construção_x0020_de_x0020_Cenários>
+    <_x0037_._x0020_Avaliação_x0020_Estratégica>false</_x0037_._x0020_Avaliação_x0020_Estratégica>
+    <_x0038_._x0020_Avaliação_x0020_do_x0020_Plano_x0020_de_x0020_Negócio>false</_x0038_._x0020_Avaliação_x0020_do_x0020_Plano_x0020_de_x0020_Negócio>
+    <_x0031_.1_x0020_Resumo_x0020_dos_x0020_principais_x0020_pontos_x0020_do_x0020_plano_x0020_de_x0020_negócio>true</_x0031_.1_x0020_Resumo_x0020_dos_x0020_principais_x0020_pontos_x0020_do_x0020_plano_x0020_de_x0020_negócio>
+    <_x0031_.2_x0020_Dados_x0020_dos_x0020_empreendedores_x002C__x0020_experiência_x0020_profissional_x0020_e_x0020_atribuições>true</_x0031_.2_x0020_Dados_x0020_dos_x0020_empreendedores_x002C__x0020_experiência_x0020_profissional_x0020_e_x0020_atribuições>
+    <_x0031_.3_x0020_Dados_x0020_do_x0020_empreendimento>true</_x0031_.3_x0020_Dados_x0020_do_x0020_empreendimento>
+    <_x0031_.4_x0020_Missão_x0020_da_x0020_empresa>true</_x0031_.4_x0020_Missão_x0020_da_x0020_empresa>
+    <_x0031_.5_x0020_Setores_x0020_de_x0020_atividades>true</_x0031_.5_x0020_Setores_x0020_de_x0020_atividades>
+    <_x0031_.6_x0020_Forma_x0020_Jurídica>true</_x0031_.6_x0020_Forma_x0020_Jurídica>
+    <_x0031_.7_x0020_Enquadramento_x0020_Tributário>true</_x0031_.7_x0020_Enquadramento_x0020_Tributário>
+    <_x0031_.7.1_x0020_Âmbito_x0020_federal>true</_x0031_.7.1_x0020_Âmbito_x0020_federal>
+    <_x0031_.7.2_x0020_Âmbito_x0020_estadual>true</_x0031_.7.2_x0020_Âmbito_x0020_estadual>
+    <_x0031_.7.3_x0020_Âmbito_x0020_municipal>true</_x0031_.7.3_x0020_Âmbito_x0020_municipal>
+    <_x0031_.8_x0020_Capital_x0020_Social>true</_x0031_.8_x0020_Capital_x0020_Social>
+    <_x0031_.9_x0020_Fonte_x0020_de_x0020_recursos>true</_x0031_.9_x0020_Fonte_x0020_de_x0020_recursos>
+    <_x0032_.1_x0020_Estudo_x0020_dos_x0020_clientes>true</_x0032_.1_x0020_Estudo_x0020_dos_x0020_clientes>
+    <_x0032_.2_x0020_Estudo_x0020_dos_x0020_concorrentes>false</_x0032_.2_x0020_Estudo_x0020_dos_x0020_concorrentes>
+    <_x0032_.3_x0020_Estudo_x0020_dos_x0020_fornecedores>true</_x0032_.3_x0020_Estudo_x0020_dos_x0020_fornecedores>
+    <_x0033_.1_x0020_Descrição_x0020_dos_x0020_principais_x0020_produtos_x0020_e_x0020_serviços>true</_x0033_.1_x0020_Descrição_x0020_dos_x0020_principais_x0020_produtos_x0020_e_x0020_serviços>
+    <_x0033_.2_x0020_Preço>true</_x0033_.2_x0020_Preço>
+    <_x0033_.3_x0020_Estratégias_x0020_promocionais>true</_x0033_.3_x0020_Estratégias_x0020_promocionais>
+    <_x0033_.4_x0020_Estrutura_x0020_de_x0020_comercialização>true</_x0033_.4_x0020_Estrutura_x0020_de_x0020_comercialização>
+    <_x0033_.5_x0020_Localização_x0020_do_x0020_negócio>true</_x0033_.5_x0020_Localização_x0020_do_x0020_negócio>
+    <_x0034_.1_x0020_Layout>false</_x0034_.1_x0020_Layout>
+    <_x0034_.2_x0020_Capacidade_x0020_produtiva_x002F_comercial_x002F_serviços>true</_x0034_.2_x0020_Capacidade_x0020_produtiva_x002F_comercial_x002F_serviços>
+    <_x0034_.3_x0020_Processos_x0020_operacionais>false</_x0034_.3_x0020_Processos_x0020_operacionais>
+    <_x0034_.4_x0020_Necessidade_x0020_de_x0020_pessoal>true</_x0034_.4_x0020_Necessidade_x0020_de_x0020_pessoal>
+    <_x0035_.1_x0020_Estimativa_x0020_de_x0020_investimentos_x0020_fixos>true</_x0035_.1_x0020_Estimativa_x0020_de_x0020_investimentos_x0020_fixos>
+    <_x0035_.2_x0020_Capital_x0020_de_x0020_giro>false</_x0035_.2_x0020_Capital_x0020_de_x0020_giro>
+    <_x0035_.2.1_x0020_Estimativa_x0020_de_x0020_Estoque_x0020_Inicial>true</_x0035_.2.1_x0020_Estimativa_x0020_de_x0020_Estoque_x0020_Inicial>
+    <_x0035_.2.2_x0020_Caixa_x0020_Mínimo>false</_x0035_.2.2_x0020_Caixa_x0020_Mínimo>
+    <_x0035_.3_x0020_Investimentos_x0020_pré-operacionais>false</_x0035_.3_x0020_Investimentos_x0020_pré-operacionais>
+    <_x0035_.4_x0020_Investimento_x0020_total_x0020__x0028_resumo_x0029_>false</_x0035_.4_x0020_Investimento_x0020_total_x0020__x0028_resumo_x0029_>
+    <_x0035_.5_x0020_Estimativa_x0020_do_x0020_faturamento_x0020_mensal_x0020_da_x0020_empresa>true</_x0035_.5_x0020_Estimativa_x0020_do_x0020_faturamento_x0020_mensal_x0020_da_x0020_empresa>
+    <_x0035_.6_x0020_Estimativa_x0020_do_x0020_custo_x0020_unitário_x0020_de_x0020_matéria_x0020_prima_x002C__x0020_materiais_x0020_diretos_x0020_e_x0020_terceirizações>false</_x0035_.6_x0020_Estimativa_x0020_do_x0020_custo_x0020_unitário_x0020_de_x0020_matéria_x0020_prima_x002C__x0020_materiais_x0020_diretos_x0020_e_x0020_terceirizações>
+    <_x0035_.7_x0020_Estimativas_x0020_de_x0020_custos_x0020_de_x0020_comercialização>false</_x0035_.7_x0020_Estimativas_x0020_de_x0020_custos_x0020_de_x0020_comercialização>
+    <_x0035_.8_x0020_Apuração_x0020_do_x0020_custo_x0020_dos_x0020_materiais_x0020_diretos_x0020_e_x002F_ou_x0020_mercadorias_x0020_vendidas>false</_x0035_.8_x0020_Apuração_x0020_do_x0020_custo_x0020_dos_x0020_materiais_x0020_diretos_x0020_e_x002F_ou_x0020_mercadorias_x0020_vendidas>
+    <_x0035_.9_x0020_Estimativas_x0020_dos_x0020_custos_x0020_com_x0020_mão-de-obra>true</_x0035_.9_x0020_Estimativas_x0020_dos_x0020_custos_x0020_com_x0020_mão-de-obra>
+    <_x0035_.10_x0020_Estimativas_x0020_dos_x0020_custos_x0020_com_x0020_depreciação>true</_x0035_.10_x0020_Estimativas_x0020_dos_x0020_custos_x0020_com_x0020_depreciação>
+    <_x0035_.11_x0020_Estimativas_x0020_dos_x0020_custos_x0020_fixos_x0020_operacionais_x0020_mensais>true</_x0035_.11_x0020_Estimativas_x0020_dos_x0020_custos_x0020_fixos_x0020_operacionais_x0020_mensais>
+    <_x0035_.12_x0020_Demonstrativo_x0020_de_x0020_resultados>true</_x0035_.12_x0020_Demonstrativo_x0020_de_x0020_resultados>
+    <_x0035_.13_x0020_Indicadores_x0020_de_x0020_viabilidade>false</_x0035_.13_x0020_Indicadores_x0020_de_x0020_viabilidade>
+    <_x0036_.1_x0020_Ações_x0020_Preventivas_x0020_e_x0020_Corretivas>false</_x0036_.1_x0020_Ações_x0020_Preventivas_x0020_e_x0020_Corretivas>
+    <_x0037_.1_x0020_Análise_x0020_da_x0020_Matriz_x0020_F.O.F.A.>false</_x0037_.1_x0020_Análise_x0020_da_x0020_Matriz_x0020_F.O.F.A.>
+    <_x0038_.1_x0020_Avaliação>false</_x0038_.1_x0020_Avaliação>
+  </Status_Preenchimento_tela>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-1</cd_custo>
+    <ds_descricao>Aluguel</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>1</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-2</cd_custo>
+    <ds_descricao>Condomínio</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>2</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-3</cd_custo>
+    <ds_descricao>IPTU</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>3</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-4</cd_custo>
+    <ds_descricao>Energia elétrica</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>4</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-5</cd_custo>
+    <ds_descricao>Telefone + internet</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>5</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-6</cd_custo>
+    <ds_descricao>Honorários do contador</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>6</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-7</cd_custo>
+    <ds_descricao>Pró-labore</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>7</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-8</cd_custo>
+    <ds_descricao>Manutenção dos equipamentos</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>8</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-9</cd_custo>
+    <ds_descricao>Salários + encargos</ds_descricao>
+    <nm_valor>21600.00</nm_valor>
+    <numero>9</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-10</cd_custo>
+    <ds_descricao>Material de limpeza</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>10</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-11</cd_custo>
+    <ds_descricao>Material de escritório</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>11</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-12</cd_custo>
+    <ds_descricao>Taxas diversas</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>12</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-13</cd_custo>
+    <ds_descricao>Serviços de terceiros</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>13</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-14</cd_custo>
+    <ds_descricao>Depreciação</ds_descricao>
+    <nm_valor>701.34</nm_valor>
+    <numero>14</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-15</cd_custo>
+    <ds_descricao>Contribuição do Microempreendedor Individual – MEI</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>15</numero>
+  </Custo_Fixo_Mensal>
+  <Custo_Fixo_Mensal>
+    <cd_custo>-16</cd_custo>
+    <ds_descricao>Outras taxas</ds_descricao>
+    <nm_valor>0.00</nm_valor>
+    <numero>16</numero>
+  </Custo_Fixo_Mensal>
+  <Projecao_Receitas>
+    <tipoProjecao>F</tipoProjecao>
+    <Mes1>701.34</Mes1>
+    <Mes2>701.34</Mes2>
+    <Mes3>701.34</Mes3>
+    <Mes4>701.34</Mes4>
+    <Mes5>701.34</Mes5>
+    <Mes6>701.34</Mes6>
+    <Mes7>701.34</Mes7>
+    <Mes8>701.34</Mes8>
+    <Mes9>701.34</Mes9>
+    <Mes10>701.34</Mes10>
+    <Mes11>701.34</Mes11>
+    <Mes12>701.34</Mes12>
+    <Ano2>8416.08</Ano2>
+    <Ano3>0</Ano3>
+    <Ano4>0</Ano4>
+    <Ano5>0</Ano5>
+    <taxaCrescimento>0</taxaCrescimento>
+    <taxaCrescimentoAno>0</taxaCrescimentoAno>
+    <modoProjecao>S</modoProjecao>
+  </Projecao_Receitas>
+  <Custo_Comercializacao>
+    <ds_imposto>SIMPLES (Imposto Federal)</ds_imposto>
+    <nm_percentual>0</nm_percentual>
+  </Custo_Comercializacao>
+  <Custo_Comercializacao>
+    <ds_imposto>Comissões (Gastos com Vendas)</ds_imposto>
+    <nm_percentual>0</nm_percentual>
+  </Custo_Comercializacao>
+  <Custo_Comercializacao>
+    <ds_imposto>Propaganda (Gastos com Vendas)</ds_imposto>
+    <nm_percentual>0</nm_percentual>
+  </Custo_Comercializacao>
+  <Custo_Comercializacao>
+    <ds_imposto>Taxas de Cartões (Gastos com Vendas)</ds_imposto>
+    <nm_percentual>0</nm_percentual>
+  </Custo_Comercializacao>
+</DSPlanoNegocio>
